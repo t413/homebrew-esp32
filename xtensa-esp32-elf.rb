@@ -7,7 +7,7 @@ class XtensaEsp32Elf < Formula
   homepage ""
   url "https://dl.espressif.com/dl/xtensa-esp32-elf-osx-1.22.0-61-gab8375a-5.2.0.tar.gz"
   version "1.22.0"
-  sha256 "95abdd14b49056ba63981f590f7e54a54b846ab93dc38b81c1f098a240e1599d"
+  sha256 "89a9a6084ec032ddcd4bdae37b428e533ed5fd0c0ab6b66ddf703e4b3f83d6e4"
 
   def install
     libexec.install Dir["*"]
