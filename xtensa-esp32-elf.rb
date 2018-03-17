@@ -5,7 +5,7 @@
 class XtensaEsp32Elf < Formula
   desc "ESP32 toolchain"
   homepage ""
-  url "https://dl.espressif.com/dl/xtensa-esp32-elf-osx-1.22.0-59.tar.gz"
+  url "https://dl.espressif.com/dl/xtensa-esp32-elf-osx-1.22.0-61-gab8375a-5.2.0.tar.gz"
   version "1.22.0"
   sha256 "95abdd14b49056ba63981f590f7e54a54b846ab93dc38b81c1f098a240e1599d"
 
